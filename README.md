@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bharath Kumar
-- ![alt text](https://github.com/vedabharath/vedabharath/blob/main/gif.mp4)
+- ![Bharath](https://github.com/vedabharath/vedabharath/blob/main/gif.mp4)
 - 👀 I’m interested in leanring new tech stacks, travelling around the world and exploring new things
 - 🌱 I’m currently learning Cloud Techs
 - 💞️ I’m looking to collaborate on ...
