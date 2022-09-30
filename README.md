@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Bharath Kumar
+- 👋 Hi, I’m **Bharath Kumar**
 - 👀 I’m interested in leanring new tech stacks, travelling around the world and exploring new things
 - 🌱 I’m currently learning Cloud Techs
 - 💞️ I’m looking to collaborate on....... <br />
-      - LinkedIn - https://www.linkedin.com/in/chithakayala-b-8854438b/ <br/> 
-      - Twitter -  https://twitter.com/veda_bharath
+      - [LinkedIn](https://www.linkedin.com/in/chithakayala-b-8854438b/ "https://www.linkedin.com/in/chithakayala-b-8854438b/") <br/> 
+      - [Twitter](https://twitter.com/veda_bharath "https://twitter.com/veda_bharat")
 
 <!---
 vedabharath/vedabharath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
