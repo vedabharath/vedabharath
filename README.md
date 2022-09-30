@@ -2,7 +2,7 @@
 - 👀 I’m interested in leanring new tech stacks, travelling around the world and exploring new things
 - 🌱 I’m currently learning Cloud Techs
 - 💞️ I’m looking to collaborate on....... <br />
-      - [LinkedIn](https://www.linkedin.com/in/chithakayala-b-8854438b/ "https://www.linkedin.com/in/chithakayala-b-8854438b/") <br/> 
+      - [LinkedIn](https://www.linkedin.com/in/chithakayala-b-8854438b/ "https://www.linkedin.com/in/chithakayala-b-8854438b/") \
       - [Twitter](https://twitter.com/veda_bharath "https://twitter.com/veda_bharat")
 
 <!---
